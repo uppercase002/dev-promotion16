@@ -1,4 +1,0 @@
-body{
-    background-image: url("{% static 'images/bck.jp' %}");
-    background-size: cover;
-}
